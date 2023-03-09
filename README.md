@@ -1,4 +1,4 @@
-# <Challenge 1>
+# Challenge 1
 
 ## Description
 I edited the HTML and CSS to improve the semantics. I had to change the HTML elements and reorganize the CSS rules.  
