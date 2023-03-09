@@ -115,8 +115,8 @@ p {
     color: #ffffff;
 }
 
-/* group them together because it the same style */
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
+/* group them together because it the same style made one class for h3*/
+.benefits h3{
     margin-bottom: 10px;
     text-align: center;
 }
