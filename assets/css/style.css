@@ -31,14 +31,16 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* change div to nav */
 .header nav ul {
     list-style-type: none;
 }
 
+/* change div to nav. add list style type */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
+    list-style-type: none;
 }
 
 a {
