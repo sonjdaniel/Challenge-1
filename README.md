@@ -16,7 +16,7 @@ Link to application: https://sonjdaniel.github.io/Challenge-1/
 
 ## Credits
 
-I rewrote the code for this page, but it would not be possible without the instruction and guidance of the staff of the UofM coding boot camp, nor without the resources at W3 and  the Mozilla Developers Network
+I improve the HTML semantics and CSS for this page, but it would not be possible without the instruction and guidance of the staff of the UofM coding boot camp, nor without the resources at W3 and  the Mozilla Developers Network
 
 ## License
 
