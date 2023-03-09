@@ -100,8 +100,8 @@ p {
     text-align: center;
 }
 
-/* Group them together because it the same style */
-.benefit-lead img, .benefit-brand img, .benefit-cost img {
+/* Group them together because it the same style , made one class for images */
+.benefits img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
