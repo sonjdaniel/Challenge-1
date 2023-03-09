@@ -117,8 +117,8 @@ p {
     color: #ffffff;
 }
 
-/* group these together because it is the same style */
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+/* group these together because it is the same style to get one class for the images */
+.content img {
     max-height: 200px;
 }
 
